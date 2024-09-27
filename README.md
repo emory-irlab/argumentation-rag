@@ -5,7 +5,7 @@ Corpus will be released here shortly. Check out our full poster [here](https://g
 For any inquiries, contact kdhole@emory.edu
 
 ```bibtex
-@inproceedings{harrington2024llm,
+@misc{harrington2024llm,
   author    = {Kaustubh Dhole and Eugene Agichtein},
   title     = {LLM Judges for Retrieval Augmented Argumentation},
   booktitle = {Proceedings of The Second Workshop on Task Focused IR in the Era of Generative AI},
